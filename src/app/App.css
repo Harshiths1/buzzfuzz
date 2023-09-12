@@ -1,0 +1,6 @@
+.App {
+  min-width: 100vw;
+  min-height: 100vh;
+  background-color: var(--primary-grey);
+  color: #4c768d;
+}
